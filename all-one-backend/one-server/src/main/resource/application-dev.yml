@@ -1,0 +1,13 @@
+one:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    host: 127.0.0.1
+    port: 3306
+    database: crown
+    username: root
+    password: root
+  redis:
+    host: 127.0.0.1
+    port: 6379
+    password: redis
+    database: 10
